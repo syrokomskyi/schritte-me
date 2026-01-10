@@ -27,13 +27,14 @@ interface FolderPageOptions extends FullPageLayout {
 
 export const FolderPage: QuartzEmitterPlugin<Partial<FolderPageOptions>> = (userOpts) => {
   const opts: FullPageLayout = {
+    afterBody: [],
     ...sharedPageComponents,
     ...defaultListPageLayout,
     pageBody: FolderContent({ sort: userOpts?.sort }),
     ...userOpts,
   }
 
-  const { head: Head, header, beforeBody, pageBody, afterBody, left, right, footer: Footer } = opts
+  const { head: Head, header, beforeBody, pageBody, afterBody = [], left, right, footer: Footer } = opts
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
