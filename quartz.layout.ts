@@ -30,7 +30,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       Webgogol: "https://webgogol.com",
-      Thanks: "https://github.com/jackyzha0/quartz",
     },
   }),
 }
