@@ -1,0 +1,8 @@
+## Verb
+
+
+## Nomen
+
+
+## Adjectiv
+

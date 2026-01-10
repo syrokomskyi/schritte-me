@@ -1,0 +1,9 @@
+[[3 - Satzgliedstellung mit Beispiel.pdf]]
+
+| Position&nbsp;1                   | Position&nbsp;2<br><br>(Verb) | Position&nbsp;3<br>temporal (Wann?) | Position&nbsp;4<br>kausal (Warum?) | Position&nbsp;5<br>modal (Wie?)   | Position&nbsp;6<br>lokal (Wo?/Wohin?/Woher?) | Satzende |
+| --------------------------------- | ----------------------------- | ----------------------------------- | ---------------------------------- | --------------------------------- | -------------------------------------------- | -------- |
+| Ich                               | fahre                         | heute                               | wegen des schlechten Wetters       | mit dem Auto                      | zur Arbeit                                   | .        |
+| Heute                             | fahre                         | ich                                 | wegen des schlechten Wetters       | mit dem Auto                      | zur Arbeit                                   | .        |
+| Wegen des&nbsp;schlechten Wetters | fahre                         | ich                                 | heute                              | mit dem Auto                      | zur Arbeit                                   | .        |
+| Mit dem Auto                      | fahre                         | ich                                 | heute                              | wegen des&nbsp;schlechten Wetters | zur Arbeit                                   | .        |
+| Zur Arbeit                        | fahre                         | ich                                 | heute                              | wegen des&nbsp;schlechten Wetters | mit dem Auto                                 | .        |

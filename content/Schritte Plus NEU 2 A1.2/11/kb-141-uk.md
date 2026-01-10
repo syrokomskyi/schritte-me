@@ -1,0 +1,28 @@
+| Original                                                                                                 | UK                                                                                            |
+| -------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Entschuldigen Sie? ... Darf ich Sie was fragen?**                                                      | **Вибачте? ... Можна запитати Вас щось?**                                                     |
+| Bitte können Sie mir sagen:                                                                              | Будь ласка, чи можете Ви сказати мені:                                                        |
+| Wie komm’ ich denn von hier zur Universität?                                                             | Як я можу дістатися відсюди до університету?                                                  |
+| Fahr’ ich mit der U-Bahn, mit der S-Bahn, mit dem Bus?                                                   | Їхати мені метро, швидкісним поїздом чи автобусом?                                            |
+| Oder ist es nicht so weit? Dann gehe ich zu Fuß.                                                         | Або це не так далеко? Тоді я піду пішки.                                                      |
+| Sie geh’n da vorne links an diesem Kiosk vorbei.                                                         | Ви йдете там попереду ліворуч повз цей кіоск.                                                 |
+| Und dann geh’n Sie immer weiter bis zu einer Bäckerei.                                                   | А потім Ви продовжуєте йти до пекарні.                                                        |
+| Neben dem Geschäft muss ’ne Buchhandlung sein.                                                           | Біля цього магазину має бути книжкова крамниця.                                               |
+| Und hinter der geht rechts ein kleiner Weg hinein.                                                       | А за нею праворуч заходить невелика доріжка.                                                  |
+| Aber Achtung! Dieser Weg ist wirklich ziemlich schmal.                                                   | Але обережно! Ця доріжка дійсно досить вузька.                                                |
+| Zur Universität? ... Aha, aha, aha.                                                                      | До університету? ... Ага, ага, ага.                                                           |
+| Zur _Universität_, seh’n Sie mal da, geh’n Sie da hinter diesem Parkplatz rechts die Treppe hinauf.      | До _університету_, подивіться туди, йдіть за цією парковкою праворуч вгору по сходах.         |
+| Und bei der Apotheke dann geradeaus.                                                                     | А біля аптеки потім прямо.                                                                    |
+| Und dann geh’n Sie immer weiter, es ist nicht mehr weiter weg.                                           | А потім продовжуйте йти, це вже недалеко.                                                     |
+| Dann sind Sie in der Nähe von der Universität.                                                           | Тоді Ви будете поруч з університетом.                                                         |
+| Da vorne?                                                                                                | Там попереду?                                                                                 |
+| **Danke, danke!**                                                                                        | **Дякую, дякую!**                                                                             |
+| Links und rechts und                                                                                     | Ліворуч і праворуч і                                                                          |
+| Da oben? Da unten?                                                                                       | Там нагорі? Там унизу?                                                                        |
+| Geradeaus?                                                                                               | Прямо?                                                                                        |
+| **… Das ist wirklich sehr nett!**                                                                        | **… Це дійсно дуже люб’язно!**                                                                |
+| 1. Hören Sie das Lied und lesen Sie dazu den Liedtext. Sehen Sie das Bild an. Wo ist was? Ordnen Sie zu. | 1. Прослухайте пісню та прочитайте текст пісні. Подивіться на зображення. Де що? Упорядкуйте. |
+| Buchhandlung                                                                                             | Книжкова крамниця                                                                             |
+| Kiosk                                                                                                    | Кіоск                                                                                         |
+| Bäckerei                                                                                                 | Пекарня                                                                                       |
+| 2. Hören Sie noch einmal und singen Sie den Refrain mit.                                                 | 2. Прослухайте ще раз і заспівайте приспів разом.                                             |

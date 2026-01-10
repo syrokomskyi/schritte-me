@@ -1,0 +1,35 @@
+| Original                                                                                                | UK                                                                                           |
+| ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| _Ordnen Sie zu. Hören Sie dann und vergleichen Sie._                                                    | _Упорядкуйте. Потім прослухайте та порівняйте._                                              |
+| a) Wie lange brauchen Sie für die Reparatur?                                                            | a) Скільки часу вам потрібно для ремонту?                                                    |
+| b) Wie lange dauert es denn?                                                                            | b) Скільки часу це триває?                                                                   |
+| c) Ab wann brauchen Sie die Tasche denn wieder?                                                         | c) З якого часу вам знову потрібна сумка?                                                    |
+| Bis morgen? Ab Montag. Sie bekommen die Tasche in etwa vier bis sechs Wochen zurück.                    | До завтра? Від понеділка. Ви отримаєте сумку приблизно за чотири-шість тижнів назад.         |
+| Wann? **in**                                                                                            | Коли? **через**                                                                              |
+| einem Monat                                                                                             | один місяць                                                                                  |
+| einem Jahr                                                                                              | один рік                                                                                     |
+| einer Woche                                                                                             | один тиждень                                                                                 |
+| drei Jahren                                                                                             | три роки                                                                                     |
+| (Ab) wann? ab → 3 Uhr; Dienstag                                                                         | (Від) коли? від → 3 години; вівторок                                                         |
+| Wie lange? bis → 5 Uhr; morgen, nächste Woche                                                           | Як довго? до → 5 години; завтра, наступного тижня                                            |
+| _Hören Sie und variieren Sie._                                                                          | _Послухайте та змініть відповідно._                                                          |
+| 1. Mein Herd funktioniert nicht. Ich brauche dringend Hilfe. Wann kann der Techniker kommen?            | 1. Моя плита не працює. Мені терміново потрібна допомога. Коли може прийти технік?           |
+| In einer Stunde ist er bei Ihnen.                                                                       | За годину він буде у вас.                                                                    |
+| Varianten: meine Waschmaschine – 20 Minuten, mein Radio – eine Viertelstunde, meine Heizung – 3 Stunden | Варіанти: моя пральна машина – 20 хвилин, моє радіо – чверть години, моє опалення – 3 години |
+| 2. Mein Drucker ist schon wieder kaputt.                                                                | 2. Мій принтер знову зламався.                                                               |
+| Oje.                                                                                                    | Ой.                                                                                          |
+| Wie lange brauchen Sie für die Reparatur?                                                               | Скільки часу вам потрібно на ремонт?                                                         |
+| Bis morgen. Sie können den Drucker ab 17 Uhr abholen.                                                   | До завтра. Ви можете забрати принтер з 17 години.                                            |
+| Varianten: heute Abend – 18 Uhr, Freitag – 15 Uhr, morgen Mittag – 12 Uhr                               | Варіанти: сьогодні ввечері – 18 година, п’ятниця – 15 година, завтра опівдні – 12 година     |
+| _Rollenspiel: Ihr __ ist kaputt. Rufen Sie beim Kundenservice an._                                      | _Рольова гра: Ваш(а) __ зламаний(а). Зателефонуйте до служби підтримки._                     |
+| Sie haben ein Tablet Modell C 3.0 gekauft.                                                              | Ви придбали планшет моделі C 3.0.                                                            |
+| Es funktioniert nicht. Sie haben noch 6 Monate Garantie.                                                | Він не працює. У вас ще 6 місяців гарантії.                                                  |
+| Techno Markt, guten Tag. Meier. Was kann ich für Sie tun?                                               | Techno Markt, добрий день. Меєр. Чим можу вам допомогти?                                     |
+| Aha. Was für ein Modell ist es?                                                                         | Ага. Яка це модель?                                                                          |
+| Gut, dann bringen Sie das Gerät bitte vorbei.                                                           | Гаразд, тоді принесіть, будь ласка, пристрій.                                                |
+| Tut mir leid, das kann ich noch nicht sagen.                                                            | Мені шкода, я ще не можу цього сказати.                                                      |
+| Guten Tag. Mein Name ist __ .                                                                           | Добрий день. Моє ім'я __ .                                                                   |
+| Mein Tablet funktioniert nicht.                                                                         | Мій планшет не працює.                                                                       |
+| Ein __ Ich habe noch __ 6 Monate Garantie.                                                              | Один __ У мене ще __ 6 місяців гарантії.                                                     |
+| Bis wann können Sie das Gerät reparieren?                                                               | До якого часу ви можете відремонтувати пристрій?                                             |
+| Gut, dann bis später ...                                                                                | Гаразд, тоді до зустрічі пізніше...                                                          |

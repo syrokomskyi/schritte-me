@@ -1,0 +1,11 @@
+| Original                                                                                                 | UK                                                                        |
+| -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Sehen Sie das Bild an und lesen Sie den Text „Mein Tag“. Wer erzählt?                                    | Подивіться на зображення та прочитайте текст «Мій день». Хто розповідає?  |
+| Dann bin ich mit der U-Bahn zum Pariser Platz gefahren. Dort habe ich bis                                | Потім я поїхав метро до Паризької площі. Там я працював до                |
+| Dann bin ich mit dem Taxi zum Hauptbahnhof gefahren.                                                     | Потім я поїхав на таксі до головного вокзалу.                             |
+| Da habe ich einen Geschäftspartner aus Österreich getroffen. Wir sind in ein Restaurant gegangen.        | Там я зустрів ділового партнера з Австрії. Ми пішли в ресторан.           |
+| Um 17 Uhr 30 habe ich den Geschäftspartner wieder zum Zug gebracht und dann bin ich nach Hause gefahren. | О 17:30 я знову привів ділового партнера до поїзда і потім поїхав додому. |
+| Wählen Sie nun eine Person aus und schreiben Sie einen Text „Mein Tag“.                                  | Тепер виберіть особу та напишіть текст «Мій день».                        |
+| Lesen Sie dann Ihren Text im Kurs vor. Die anderen raten: Wer ist das?                                   | Потім зачитайте свій текст у класі. Інші вгадують: хто це?                |
+| Sehen Sie den Film zum Thema „Verkehr und Verkehrsmittel“ an.                                            | Подивіться фільм на тему «Транспорт і транспортні засоби».                |
+| Welche Verkehrsmittel sehen Sie? Sammeln Sie im Kurs.                                                    | Які транспортні засоби ви бачите? Зберіть їх у класі.                     |

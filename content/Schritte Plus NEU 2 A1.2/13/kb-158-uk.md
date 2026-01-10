@@ -1,0 +1,22 @@
+
+| Original                                                                                   | UK                                                                                                       |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
+| **B4 Sprechen Sie.**                                                                       | **B4 Говоріть.**                                                                                         |
+| **Was wissen Sie über Deutschland? Sammeln Sie und machen Sie eine Mindmap.**              | **Що ви знаєте про Німеччину? Зберіть і створіть ментальну карту.**                                      |
+| **Was gefällt Ihnen (nicht)? Was schmeckt Ihnen (nicht)? Sprechen Sie über Ihre Mindmap.** | **Що вам подобається (не подобається)? Що вам смакує (не смакує)? Поговоріть про вашу ментальну карту.** |
+| Hamburg gefällt mir nicht. Und dir?                                                        | Мені не подобається Гамбург. А тобі?                                                                     |
+| Mir auch nicht. Da ist es so kalt.                                                         | Мені теж ні. Там так холодно.                                                                            |
+| Mir schon. Mir gefallen das Meer und der Hafen.                                            | Мені так. Мені подобаються море і гавань.                                                                |
+| Ich war noch nie in Hamburg.                                                               | Я ще ніколи не був у Гамбурзі.                                                                           |
+| Also, Bratwurst schmeckt mir nicht.                                                        | Отже, мені не смакує сардельки.                                                                          |
+| Mir schon. Die ist doch lecker.                                                            | Мені так. Вона ж смачна.                                                                                 |
+| Ich habe noch nie Bratwurst gegessen.                                                      | Я ще ніколи не їв сардельки.                                                                             |
+| **Mir gefällt / schmeckt __. Und dir / Ihnen?**                                            | **Мені подобається / смакує __. А тобі / вам?**                                                          |
+| **Mir gefallen / schmecken __.**                                                           | **Мені подобаються / смакують __.**                                                                      |
+| **Mir gefällt / schmeckt __ nicht.**                                                       | **Мені не подобається / не смакує __.**                                                                  |
+| **Mir auch. / Mir nicht.**                                                                 | **Мені теж. / Мені ні.**                                                                                 |
+| **Ich war noch nie … / habe noch nie …**                                                   | **Я ще ніколи не був … / ніколи не мав …**                                                               |
+| **Mir schon. / Mir auch nicht.**                                                           | **Мені так. / Мені теж ні.**                                                                             |
+| **SCHON FERTIG?**                                                                          | **ВЖЕ ГОТОВО?**                                                                                          |
+| Was ist Ihre Lieblingsstadt?                                                               | Яке ваше улюблене місто?                                                                                 |
+| Schreiben Sie einen Text.                                                                  | Напишіть текст.                                                                                          |
