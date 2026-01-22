@@ -12,7 +12,7 @@ jobs:
       - name: optimize
         uses: calibreapp/image-actions@main
         with:
-          githubToken: ${{ secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
           ignorePaths: "content/img/avatar_index.gif,quartz/static/**"
           compressOnly: true
       - name: "Commit & push"
